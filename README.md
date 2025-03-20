@@ -1,1 +1,2 @@
-i am stupid
+Amazon Prime Content Analysis using Tableau:
+This project explores Amazon Prime's content library across different countries, identifying content similarities based on text-based features. It includes a network analysis of actors and directors to uncover interesting patterns. Additionally, the project examines trends to determine whether Amazon Prime has prioritized TV shows over movies in recent years
