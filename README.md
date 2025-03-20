@@ -7,3 +7,5 @@ Identify monthly, yearly, or regional patterns in sales data.
 Understand how efficiently orders are processed and completed.
 Analyze how age and gender impact sales or order behavior.
 Focus on top regions for better targeting and resource allocation.
+
+The objective of this project is to enhance customer experience and sell  by knowing the period of sales. This project will consider data analysis and visualization in Python with various libraries such as Pandas, Seaborn, and Matplotlib to figure out the peak sale period. The key takeaways can then be used directly in controlling the inventory and marketing strategy in a way that products are available and promotions can be efficient when they are in demand. Eventually, operation can be optimized and revenue growth can be generated with an increase in customer satisfaction.
